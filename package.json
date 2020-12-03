@@ -1,0 +1,14 @@
+{
+  "name": "pizzame",
+  "version": "1.0.0",
+  "description": "Landing page for pizzame",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "node-sass scss/main.scss css/style.css -w"
+  },
+  "author": "Icarus",
+  "license": "ISC",
+  "devDependencies": {
+    "node-sass": "^5.0.0"
+  }
+}
